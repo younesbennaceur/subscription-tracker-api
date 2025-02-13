@@ -12,6 +12,9 @@
     "debug": "~2.6.9",
     "dotenv": "^16.4.7",
     "express": "~4.16.1",
+    "mongodb": "^6.13.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.10.0",
     "morgan": "~1.9.1"
   },
   "devDependencies": {
